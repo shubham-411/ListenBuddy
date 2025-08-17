@@ -46,7 +46,3 @@ We use a *Queue-based Opposite Role Matching* algorithm:
 
 * 🎥 Voice & Video calling with WebRTC
 * 🧑‍🤝‍🧑 Group chat rooms
-
-
-👉 This README is professional enough for recruiters/hackathons.
-Do you want me to also **generate `requirements.txt`** for your project so it runs smoothly after cloning?
